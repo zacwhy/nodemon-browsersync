@@ -1,6 +1,6 @@
-![Demo](docs/images/demo.gif)
-
 # nodemon + Browsersync
+
+![Demo](docs/images/demo.gif)
 
 ## Installation
 
